@@ -3,6 +3,7 @@ In this scraper I am stripping a google finance stock of its key attributes and 
 Right now it is extremely basic and here are some of my future goals:
 
 -I plan on allowing html form input to this script rather than hard-coding in a given URL.
+
 -Writing a function that parses the data and outputs a conclusion to the HTML page.
 
 The meaning behind this idea of mine is to be able to give my opinion on a stock in an automated process that can be understood by a general audience. 
